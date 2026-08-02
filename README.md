@@ -3,3 +3,4 @@
 
 가급적 75%에서 사용하다가 겜할땐 99%로 설정하는게 좋은듯?!
 
+<img width="746" height="612" alt="image" src="https://github.com/user-attachments/assets/cf51754d-036b-4d7e-aa7c-bac6cd663a21" />
