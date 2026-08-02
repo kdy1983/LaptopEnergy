@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>power.ico</ApplicationIcon>
+    <AssemblyName>CpuPowerTray</AssemblyName>
+    <RootNamespace>CpuPowerTray</RootNamespace>
+    <Version>1.1.0</Version>
+    <FileVersion>1.1.0.0</FileVersion>
+    <Product>CPU Power Tray</Product>
+    <Description>Tray utility for Windows processor power-state control</Description>
+  </PropertyGroup>
+</Project>
